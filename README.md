@@ -28,7 +28,7 @@ https://img.shields.io/badge/REST-API-FF6C37?style=for-the-badge&logo=rest&logoC
 Clone the repository:
 
 sh
-git clone https://github.com/your-username/swagger-openapi-clinic.git
+git clone https://github.com/Buenohy/swagger-openapi.git
 Navigate to project folder:
 
 sh
@@ -88,7 +88,7 @@ https://img.shields.io/badge/REST-API-FF6C37?style=for-the-badge&logo=rest&logoC
 Clone o repositório:
 
 sh
-git clone https://github.com/seu-usuario/swagger-openapi-clinic.git
+git clone https://github.com/Buenohy/swagger-openapi.git
 Navegue até a pasta do projeto:
 
 sh
