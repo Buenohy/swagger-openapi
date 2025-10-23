@@ -4,6 +4,8 @@
 
 # Swagger OpenAPI Clinic API
 
+![Swagger OpenAPI Clinic API](/swagger-openapi-screenshot-0.png)
+
 ![OpenAPI Specification](https://img.shields.io/badge/OpenAPI-3.1.0-green?style=for-the-badge)
 ![Swagger Documentation](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=Swagger&logoColor=white)
 
@@ -73,6 +75,8 @@ This project is licensed under the GPLv3 License - see [LICENSE](LICENSE) file f
 </p>
 
 # Swagger OpenAPI API de Consultório
+
+![Swagger OpenAPI Clinic API](/swagger-openapi-screenshot-0.png)
 
 ![OpenAPI Specification](https://img.shields.io/badge/OpenAPI-3.1.0-green?style=for-the-badge)
 ![Swagger Documentation](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=Swagger&logoColor=white)
